@@ -9,6 +9,8 @@ is ended.
 You could download the community build, it does not contain this nag, but they are not exactly promoting the
 availability of these builds and you would miss a small number of features.
 
+[Community Builds](https://github.com/JetBrains/intellij-community/releases) at GitHub.
+
 ## Demo
 
 ### Nag
