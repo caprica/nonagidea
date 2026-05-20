@@ -26,7 +26,7 @@ availability of these builds and you would miss a small number of features.
 Open up a terminal:
 
 ```shell
-cd <your-idea-installation directory>/lib/modules
+cd <your-idea-installation-directory>/lib/modules
 rm *trial*
 ```
 
@@ -56,3 +56,12 @@ In any case, when I update I recommend the manual download option instead of an 
 
 This is because I install applications in a specific folder not in my `/home` partition, and it takes something like 5gb
 of disk space or more to update IDEA in place.
+
+## 2026 Update
+
+```shell
+cd <your-idea-installation-directory>lib
+rm intellij.platform.trialPromotion.common.jar
+```
+
+Appears to be enough.
