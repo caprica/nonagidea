@@ -60,7 +60,7 @@ of disk space or more to update IDEA in place.
 ## 2026 Update
 
 ```shell
-cd <your-idea-installation-directory>lib
+cd <your-idea-installation-directory>/lib
 rm intellij.platform.trialPromotion.common.jar
 ```
 
